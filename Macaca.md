@@ -43,12 +43,12 @@
 
 统一了三端，意味着测试脚本的可重用
 - Android
-- ios
+- iOS
 - PC
 
 - - -
 
-# Muti-lang
+# Multi-lang
 
 - - -
 
