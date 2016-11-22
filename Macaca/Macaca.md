@@ -1,10 +1,3 @@
-
-# Macaca自动化测试框架
-
-——肉猪
-
-- - -
-
 # What is Automation Test?
 
 - - -
@@ -112,9 +105,3 @@ API 遵循 W3C WebDriver Wire Protocol
 - - -
 
 ![](http://ww2.sinaimg.cn/large/6d308bd9gw1f95rxivtetg211y0iqu19.gif)
-
-- - -
-
-# Thank you!
-
-
