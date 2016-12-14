@@ -38,6 +38,7 @@
 
 ### 更高效的虚拟化
 - 无需额外的 hypervisor 支持
+
 注: 虚拟机利用 hypervisor 虚拟化CPU, 内存等硬件资源，运行在 Docker 容器上的程序直接使用的是实际物理机的资源
 
 - - -
@@ -79,7 +80,8 @@ Docker 容器几乎可以运行在任意 Linux 平台上，使得应用程序迁
 ### 一些指令
 - docker build -t="feedit" .
 - docker images
-- docker run -d -P feedit
+- docker run [options] feedit
 - docker ps
 - docker rmi IMAGE_ID
+- docker rm CONTAINER_ID
 
