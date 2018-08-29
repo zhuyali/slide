@@ -2,3 +2,4 @@
 .idea/*
 *.un~
 *.sw*
+node_modules/

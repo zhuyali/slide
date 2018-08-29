@@ -1,0 +1,26 @@
+{
+  "name": "slide",
+  "version": "1.0.0",
+  "description": "分享用的ppt",
+  "scripts": {
+    "server": "startserver",
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyali/slide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyali/slide/issues"
+  },
+  "homepage": "https://github.com/zhuyali/slide#readme",
+  "devDependencies": {
+    "pre-commit": "^1.2.2",
+    "startserver": "^1.3.8"
+  },
+  "pre-commit": [
+    "build"
+  ]
+}

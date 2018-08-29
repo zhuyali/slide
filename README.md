@@ -1,3 +1,3 @@
 # slide
 
-分享用的ppt
+分享专用 [link](https://zhuyali.github.io/slide/)
